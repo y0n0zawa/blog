@@ -11,6 +11,6 @@ services:
       - node_modules:/y0n0zawa.github.io/node_modules
     environment:
       - NODE_ENV=development
-    command: "gatsby develop"
+    command: "yarn start"
 volumes:
   node_modules:
