@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "y0n0zawa.github.io",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "y0n0zawa <yoshitomo.onozawa@gmail.com>",
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-image": "^2.3.1",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/y0n0zawa/y0n0zawa.github.io"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/y0n0zawa/y0n0zawa.github.io/issues"
   }
 }
